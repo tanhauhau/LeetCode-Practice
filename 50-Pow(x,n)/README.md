@@ -1,5 +1,6 @@
-## Description
+# 50 - Pow(x,n)
 
+**Description**
 Implement pow(x, n).
 
 ## Default test case
